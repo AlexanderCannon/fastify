@@ -104,7 +104,7 @@
     "@types/pino": "^4.7.1",
     "abstract-logging": "^1.0.0",
     "ajv": "^6.4.0",
-    "avvio": "^5.4.3",
+    "avvio": "^6.2.1",
     "end-of-stream": "^1.4.1",
     "fast-json-stringify": "^1.5.2",
     "find-my-way": "^1.12.0",
