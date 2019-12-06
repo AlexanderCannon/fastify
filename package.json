@@ -101,7 +101,7 @@
     "x-xss-protection": "^1.1.0"
   },
   "dependencies": {
-    "@types/pino": "^4.7.1",
+    "@types/pino": "^5.14.0",
     "abstract-logging": "^1.0.0",
     "ajv": "^6.4.0",
     "avvio": "^6.2.1",
